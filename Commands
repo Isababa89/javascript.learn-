@@ -1,0 +1,33 @@
+//Including JavaScript on the web (in HTML):
+  <script> ... </script> 
+  
+//output 
+  
+  For testing -->
+    document.write{''} 
+    
+  To the browser console --> 
+    console.log()
+    
+//variables
+
+  To declare a variable -->
+    var x = 10 
+    
+  Naming Variables --> 
+    - First charecter must be a letter, an underscore or a dollar sign
+    - Variables can't include mathimatical operators or special symbols 
+    - Variable names can't contain spaces
+    
+  Strings -->
+    use them to manipulate and store text 
+    " " or ' ' 
+   
+  Booleans --> 
+    
+
+
+IMPORTANT SHIT 
+
+      console.log()
+      alert()
